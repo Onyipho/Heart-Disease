@@ -1,1 +1,2 @@
 # Heart-Disease
+We predicted heart disease using various machine models. Next, we attempt to improve the dataset quality for heart diseases prediction using advance techniques such as Wasserstein GAN (WGAN) with Gradient Penalty, for stabilizing the training process. The synthetic data generated is compared with the original dataset using statistical properties of the dataset, clustering analysis, feature correlation etc.
